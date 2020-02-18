@@ -1,2 +1,4 @@
 File con qualche riga
 a caso
+con qualche altra
+riga
